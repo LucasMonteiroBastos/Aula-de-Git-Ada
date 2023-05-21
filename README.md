@@ -8,3 +8,6 @@ Aula de git
 
 
 ## Salvando alterações no git
+
+
+* uso do comando: git restore

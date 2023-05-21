@@ -12,3 +12,4 @@ Aula de git
 
 * uso do comando: git restore
 * git push
+* comando git pull
